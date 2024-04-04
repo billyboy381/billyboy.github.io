@@ -1,46 +1,26 @@
-Parallelism by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Bilal Zahid
+Web Developer| Graphic designer
 
+About Me:
+With a passion for innovation and a love for problem-solving, I am a dedicated web developer with 6 years of experience in crafting dynamic and user-centric digital experiences. My journey into the world of web development began with an insatiable curiosity about the intersection of technology and creativity, which has since evolved into a career fueled by a commitment to excellence and continuous learning.
 
-It's done! Parallelism was an idea I mocked up a few months ago but, due to other
-committments, didn't get around to putting to code until recently. Different to
-my more general-purpose freebies, this one's specifically built for portfolio use
-with a very unique look/layout. Hope you enjoy it!
+Background:
+I embarked on my journey into web development after earning a degree in [Computer Science] from [Transport & telecommunication institute Riga/Latvia]. Since then, I have honed my skills through hands-on experience, working on diverse projects ranging from responsive websites and web applications to e-commerce platforms and content management systems.
 
-Demo images* are courtesy of the supremely talented photographer Felicia Simion.
-If you like photography or just enjoy being blown away by awesome stuff, check
-out her portfolio for more stunning images:
+Skills:
+As a versatile developer, I am proficient in a wide range of programming languages, including HTML5, CSS3, JavaScript, and various frameworks such as React.js, Angular, and Vue.js. My expertise extends to backend technologies like Node.js, Express, and MongoDB, enabling me to develop robust and scalable web solutions. Additionally, I am well-versed in version control systems such as Git and have experience integrating third-party APIs to enhance functionality and user experience.
 
-http://ineedchemicalx.deviantart.com/
+Philosophy:
+Driven by a commitment to craftsmanship and attention to detail, I approach each project with a focus on delivering high-quality solutions that meet both technical requirements and user needs. I believe in the power of collaboration and actively seek opportunities to work alongside talented individuals to bring creative visions to life.
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
+Portfolio:
+Throughout my career, I have had the privilege of working on a diverse array of projects, each presenting unique challenges and opportunities for growth. From crafting sleek and intuitive user interfaces to optimizing backend performance and security, I take pride in my ability to deliver innovative solutions that exceed expectations.
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Community Involvement:
+Beyond my professional endeavors, I am passionate about giving back to the developer community and sharing knowledge with aspiring technologists. Whether through participating in open-source projects, mentoring junior developers, or contributing to online forums and communities, I am dedicated to fostering an inclusive and supportive environment for learning and growth.
 
-AJ
-aj@lkn.io | @ajlkn
+Contact:
+I am always eager to connect with fellow developers, potential collaborators, and organizations seeking web development expertise. Feel free to reach out to me via email at [Bilalzahid436@gmail.com] or connect with me on [GitHub.com/billyboy381].
 
+Thank you for taking the time to learn more about me. I look forward to the opportunity to collaborate on exciting projects and contribute to the ever-evolving landscape of web development.
 
-Credits:
-
-	Demo Images:
-		Felicia Simion (ineedchemicalx.deviantart.com)
-			"Pasadena" (ineedchemicalx.deviantart.com/art/Pasadena-357650036)
-			"Your really got me" (ineedchemicalx.deviantart.com/art/You-really-got-me-345249340)
-			"Ad Infinitum" (ineedchemicalx.deviantart.com/art/Ad-infinitum-354203162)
-			"Different." (ineedchemicalx.deviantart.com/art/Different-353708988)
-			"Elysium" (ineedchemicalx.deviantart.com/art/Elysium-355393900)
-			"Kingdom of the Wind" (ineedchemicalx.deviantart.com/art/Kingdom-of-the-Wind-348268044)
-			"The Pursuit" (ineedchemicalx.deviantart.com/art/The-Pursuit-355003425)
-			"Boundless" (ineedchemicalx.deviantart.com/art/Boundless-291831118)
-			"The Spectators" (ineedchemicalx.deviantart.com/art/The-Spectators-342155982)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		normalizeWheel (@miorel + @pieterv of Facebook)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
